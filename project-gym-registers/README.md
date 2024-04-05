@@ -27,7 +27,7 @@
 
 <ul>
     <li>IDE IntelliJ</li>
-    <li>Java 11</li>
+    <li>Java 21</li>
     <li>Maven</li>
     <li><strong>Spring Web</strong></li>
     <li><strong>Spring Data JPA</strong></li>
